@@ -7,5 +7,6 @@ This repository contains an eCommerce Performance Dashboard built using Power BI
 - Returns Analysis: Gain insights into product returns by market and region, helping to minimize future returns.
 - Regional Insights: Evaluate the performance of different regions and identify areas for growth.
 
-# Report/ Dashboard
-!([images/dashboard.jpg](https://github.com/ShreyaMoghe20/eCommerce-Performance-Dashboard/blob/main/Ecommerce%20sales.png))
+## Report/ Dashboard
+![eCommerce Performance Dashboard](https://github.com/ShreyaMoghe20/eCommerce-Performance-Dashboard/blob/main/Ecommerce%20sales.png)
+
