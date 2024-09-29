@@ -1,5 +1,5 @@
 # eCommerce-Performance-Dashboard
-This repository contains an eCommerce Performance Dashboard built using Power BI, which provides a comprehensive analysis of an online retail dataset. The dashboard offers insights into key business metrics such as:
+This dashboard was created during a Power BI session led by Aditi Gupta (mentor) under the guidance of TechTip24. It provides a comprehensive analysis of an online retail dataset, offering insights into key business metrics such as:
 
 - Sales Performance: Track overall sales, profit margins, and discount strategies across different product categories.
 - Shipping Analytics: Analyze shipping costs, modes, and delivery times to identify cost optimization opportunities.
